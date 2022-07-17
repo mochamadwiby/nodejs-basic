@@ -1,0 +1,20 @@
+{
+  "name": "latihantesting",
+  "version": "1.0.0",
+  "description": "Latihan Testing Mochamad Wiby",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mochamad Wiby Erton Firmanda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16"
+  }
+}
